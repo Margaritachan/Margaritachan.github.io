@@ -1,0 +1,19 @@
+body {
+	padding: 0;
+	margin: 0; 
+}
+
+#first {
+ background-image: url(fjord.jpg);
+ height: 100vh;
+-webkit-background-size: cover;
+background-size: cover;
+
+}
+
+.item{
+	width: 200px;
+	background-color: red;
+	margin: 10%;
+	padding: 15px 4px 40px 10px; 
+}
